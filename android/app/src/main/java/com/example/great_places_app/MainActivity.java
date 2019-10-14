@@ -1,4 +1,4 @@
-package com.example.great_places_app;
+package com.tulio.dev.great_places_app;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
