@@ -74,3 +74,4 @@ lib/helpers/api_key.dart
 android/app/src/main/res/values/keys.xml
 ios/Runner/Keys.h
 android/app/src/main/res/values/strings.xml
+android/key.properties
